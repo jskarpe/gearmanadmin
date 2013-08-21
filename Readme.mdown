@@ -2,8 +2,8 @@ GearmanAdmin [![Build Status](https://secure.travis-ci.org/Yuav/gearmanadmin.png
 ============
 PHP Client for the Gearman Administrative Protocol
 
-[![Total Downloads](https://poser.pugx.org/Yuav/gearmanadmin/downloads.png)](https://packagist.org/packages/Yuav/gearmanadmin)
-[![Latest Stable Version](https://poser.pugx.org/Yuav/gearmanadmin/v/stable.png)](https://packagist.org/packages/Yuav/gearmanadmin)
+[![Total Downloads](https://poser.pugx.org/yuav/gearmanadmin/downloads.png)](https://packagist.org/packages/yuav/gearmanadmin)
+[![Latest Stable Version](https://poser.pugx.org/yuav/gearmanadmin/v/stable.png)](https://packagist.org/packages/yuav/gearmanadmin)
 
 Installing via Composer (recommended)
 ------------------------------

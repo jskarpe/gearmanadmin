@@ -1,5 +1,5 @@
 {
-    "name": "Yuav/gearmanadmin",
+    "name": "yuav/gearmanadmin",
     "description": "Gearman admin library to get status and version, and list workers, set maxqueue or shutdown Gearman server",
     "keywords": ["gearman", "admin", "status"],
     "homepage": "http://github.com/Yuav/gearmanadmin",

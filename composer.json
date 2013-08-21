@@ -1,0 +1,20 @@
+{
+    "name": "Yuav/gearmanadmin",
+    "description": "Gearman admin library to get status and version, and list workers, set maxqueue or shutdown Gearman server",
+    "keywords": ["gearman", "admin", "status"],
+    "homepage": "http://github.com/Yuav/gearmanadmin",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jon Skarpeteig",
+            "email": "lesspublic@gmail.com",
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+    },
+    "autoload": {
+        "psr-0": {"GearmanAdmin": "src/"}
+    }
+}

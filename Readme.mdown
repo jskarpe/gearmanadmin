@@ -19,7 +19,7 @@ curl -s http://getcomposer.org/installer | php
 ```
 {
     "require": {
-        "twig/twig": "1.*"
+        "yuav/gearmanadmin": "1.*"
     }
 }
 ```
